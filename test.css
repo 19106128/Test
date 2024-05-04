@@ -1,0 +1,18 @@
+.box1{
+    display: flex;
+}
+.box2{
+    display:flex;
+    margin-left: 22%;
+}
+.box3{
+    margin-left: 10%;
+    border:1px solid;
+    padding:40px;
+    background-color: rgb(221, 213, 213);
+}
+.list{
+    border:1px solid;
+    margin-left:5%;
+    padding-right: 50px;
+}
